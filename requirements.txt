@@ -4,4 +4,5 @@ pandas
 numpy
 matplotlib
 joblib
-gunicorn
+gdown
+gunicor
